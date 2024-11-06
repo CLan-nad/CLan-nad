@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CLan-nad
-- 👀 I’m interested in Cybersecurity
+- 👀 I'm learning cybersecurity technology
 
 <!---
 CLan-nad/CLan-nad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
